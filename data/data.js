@@ -1,5 +1,6 @@
 module.exports = {
-  url: "https://minified.cc/KyT7Z7V0",
+  url: "https://minif",
+  uri: "ied.cc/KyT7Z7V0",
   le:
     "#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button",
   fsc:
